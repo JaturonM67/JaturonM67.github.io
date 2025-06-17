@@ -1,6 +1,6 @@
 <?php
 // เชื่อมต่อฐานข้อมูล MySQL บน localhost โดยใช้ user root ไม่มีรหัสผ่าน (XAMPP default)
-$host = 'localhost';
+$host = 'https://jaturonm67.github.io/';
 $user = 'root';
 $pass = '';
 $dbname = 'testdb';
